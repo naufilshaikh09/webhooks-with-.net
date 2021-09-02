@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj": {}
+    "D:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj": {}
   },
   "projects": {
-    "d:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj": {
+    "D:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj",
+        "projectUniqueName": "D:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj",
         "projectName": "TravelAgentWeb",
-        "projectPath": "d:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj",
+        "projectPath": "D:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\TravelAgentWeb.csproj",
         "packagesPath": "C:\\Users\\snauf\\.nuget\\packages\\",
-        "outputPath": "d:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\obj\\",
+        "outputPath": "D:\\Personal\\Git\\webhooks-with-.net\\TravelAgentWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
